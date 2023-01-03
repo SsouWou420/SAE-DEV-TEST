@@ -19,10 +19,6 @@ namespace Project1
         protected override void Initialize()
         {
             // TODO: Add your initialization logic heree
-            System.Console.WriteLine("wsh ma couille");
-            System.Console.WriteLine("bonsoir");
-            System.Console.WriteLine("lol");
-            System.Console.WriteLine("jhiozejfoipzaejhfm");
             
 
             base.Initialize();
