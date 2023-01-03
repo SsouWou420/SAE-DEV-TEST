@@ -2,7 +2,7 @@
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace Project1
+namespace Project2
 {
     public class Game1 : Game
     {
@@ -18,8 +18,8 @@ namespace Project1
 
         protected override void Initialize()
         {
-            // TODO: Add your initialization logic heree
-            System.Console.WriteLine("wsh ma couille");
+            // TODO: Add your initialization logic here
+            System.Console.WriteLine("wsh");
 
             base.Initialize();
         }
