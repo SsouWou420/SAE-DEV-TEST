@@ -23,7 +23,7 @@ namespace Project1
             System.Console.WriteLine("bonsoir");
             System.Console.WriteLine("lol");
             System.Console.WriteLine("jhiozejfoipzaejhfm");
-            System.Console.WriteLine("fzefef");
+            
 
             base.Initialize();
         }
