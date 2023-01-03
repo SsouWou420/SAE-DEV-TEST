@@ -20,6 +20,8 @@ namespace Project1
         {
             // TODO: Add your initialization logic heree
             System.Console.WriteLine("wsh ma couille");
+            System.Console.WriteLine("bonsoir");
+            System.Console.WriteLine("ghg");
 
             base.Initialize();
         }
