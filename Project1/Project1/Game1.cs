@@ -19,6 +19,7 @@ namespace Project1
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
+            System.Console.WriteLine("wsh ma couille");
 
             base.Initialize();
         }
